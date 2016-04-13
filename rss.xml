@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[titletk]]></title>
         <description><![CDATA[titletk]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/titletk/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 13 Apr 2016 17:19:23 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 13 Apr 2016 17:47:09 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/titletk/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[This Could Be London's First Wooden Skyscraper]]></title>
+            <description><![CDATA[<article><h1>This Could Be London's First Wooden Skyscraper</h1><p>Over the past few years, wood has emerged as an unlikely yet desirable material for the design of future skyscrapers. This is what London's first tall timber structure could look like. The design has been put together by PLP Architecture and Cambridge University's Department of Architecture, together with engineers at Smith and Wallwork.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c1f1a20a0c6096adc1f53bb1151208dbfeb97f5f.jpg"></article>]]></description>
+            <link>http://gizmodo.com/this-could-be-londons-first-wooden-skyscraper-1770232322</link>
+            <guid isPermaLink="false">aa3a45bf-913a-4856-8067-065174c9f500</guid>
+            <pubDate>Wed, 13 Apr 2016 17:47:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c949feb0-bd66-46a7-809c-3b0d81cb87ee.png">]]></description>
-            <link>undefined93922c0f-0c3c-4db9-920b-f64480c06574/index.html</link>
+            <link>https://thegrid.ai/titletk/93922c0f-0c3c-4db9-920b-f64480c06574/index.html</link>
             <guid isPermaLink="false">93922c0f-0c3c-4db9-920b-f64480c06574</guid>
             <pubDate>Wed, 13 Apr 2016 17:18:25 GMT</pubDate>
         </item>
