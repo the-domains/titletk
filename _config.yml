@@ -1,7 +1,7 @@
 name: titletk
 favicon: null
-layout_spectrum: 0.37434159265831113
-typography_spectrum: 0.15453389612957835
+layout_spectrum: 1
+typography_spectrum: 0.22069
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
-  brandStrength: 0.20238286722451448
-  lightness: 0.9055897137150168
-  saturation: 0.6380667157936841
-  rhythmicContrast: 0.4984047382604331
+  brandStrength: 0.375
+  lightness: 0.6875
+  saturation: 0.75
+  rhythmicContrast: 0.75
 purpose: []
