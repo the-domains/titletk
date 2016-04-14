@@ -2,10 +2,10 @@
 author: []
 related: []
 publisher:
-  url: 'http://ny.curbed.com'
   name: Curbed NY
-  favicon: 'https://cdn0.vox-cdn.com/uploads/chorus_asset/file/6071723/favicon__1_.0.ico'
   domain: ny.curbed.com
+  url: 'http://ny.curbed.com'
+  favicon: 'https://cdn0.vox-cdn.com/uploads/chorus_asset/file/6071723/favicon__1_.0.ico'
 keywords:
   - age-old
   - manhattanite
@@ -22,13 +22,15 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://ny.curbed.com/2016/3/28/11315284/nyc-where-should-i-live-neighborhood-quiz'
 title: 'Quiz: Which NYC Borough Should You Live In?'
-datePublished: '2016-04-13T19:58:01.077Z'
-dateModified: '2016-04-13T19:42:49.860Z'
+datePublished: '2016-04-14T14:00:41.843Z'
+dateModified: '2016-04-14T14:00:31.155Z'
 sourcePath: _posts/2016-04-13-quiz-which-nyc-borough-should-you-live-in.md
 published: true
 inFeed: true
 hasPage: false
 inNav: false
+starred: true
+authors: []
 _context: 'http://schema.org'
 _type: MediaObject
 
